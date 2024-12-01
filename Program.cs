@@ -24,19 +24,19 @@
                 {
                     try
                     {
-                    Console.WriteLine("Guess a number between:" + min + " " + max + ": ");
+                    Console.WriteLine("Guess a number between: " + min + " and " + max);
                     guess = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Guess: " +  guess);
 
                     
                     if (guess > number)
                     {
-                        Console.WriteLine(guess + "is too high");
+                        Console.WriteLine(guess + " is too high");
                     }
                     else if (guess < number)
                     {
 
-                        Console.WriteLine(guess + "is too low");
+                        Console.WriteLine(guess + " is too low");
                     }
                     guesses++;
                     }

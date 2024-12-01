@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SchadlMelani_3k1p0ca\\source\\repos\\Learning\\GuessNumber\\GuessNumber.csproj": {}
+    "C:\\Users\\SchadlMelani_3k1p0ca\\source\\repos\\learning\\GuessNumber\\GuessNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SchadlMelani_3k1p0ca\\source\\repos\\Learning\\GuessNumber\\GuessNumber.csproj": {
+    "C:\\Users\\SchadlMelani_3k1p0ca\\source\\repos\\learning\\GuessNumber\\GuessNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SchadlMelani_3k1p0ca\\source\\repos\\Learning\\GuessNumber\\GuessNumber.csproj",
+        "projectUniqueName": "C:\\Users\\SchadlMelani_3k1p0ca\\source\\repos\\learning\\GuessNumber\\GuessNumber.csproj",
         "projectName": "GuessNumber",
-        "projectPath": "C:\\Users\\SchadlMelani_3k1p0ca\\source\\repos\\Learning\\GuessNumber\\GuessNumber.csproj",
+        "projectPath": "C:\\Users\\SchadlMelani_3k1p0ca\\source\\repos\\learning\\GuessNumber\\GuessNumber.csproj",
         "packagesPath": "C:\\Users\\SchadlMelani_3k1p0ca\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\SchadlMelani_3k1p0ca\\source\\repos\\Learning\\GuessNumber\\obj\\",
         "projectStyle": "PackageReference",
